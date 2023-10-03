@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    background-size: cover;
+    font-family: Sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-self:space-around;
+    align-items: center;
+  }
+h1 {
+    font-size: 40px;
+    border: outset rgb(224, 149, 8);
+    background-color: rgb(226, 172, 106);
+}
+img {
+    border: outset rgb(255, 194, 62);
+}

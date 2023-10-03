@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+    background-size: cover;
+    font-family: Sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-self:space-around;
+    align-items: center;
+  }
+img{
+    border: 5px solid rgb(238, 195, 52);
+    width: 400px;
+}
+h1 {
+    background-color: rgb(241, 43, 43);
+    width: 50000px;
+    height: 60%;
+    font-size: 50px;
+    text-align: center;
+    border: outset rgb(255, 224, 51);
+}
+h2 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 30px;
+}
+h5 {
+    font-size: 20px;
+}

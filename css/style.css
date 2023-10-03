@@ -1,0 +1,74 @@
+body {
+  background-image: url(../image/mom.jpg);
+  background-size: cover;
+  font-family: Sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-self:space-around;
+  align-items: center;
+}
+
+div#Myself {
+  background-color: rgba(223, 71, 71, 0.253);
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  background-color: rgba(233, 36, 36, 0.808);
+  border: outset 6px rgb(255, 0, 0);
+  text-align: center;
+  width: 70%;
+  font-style: Sans-serif;
+  color: #ffffff;
+}
+
+img {
+  border: 2px solid rgb(0, 0, 0);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 255);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 10px;
+}
+
+ul {
+  border: outset 10px rgb(255, 255, 255);
+  background-color: rgb(196, 187, 187);
+  padding: 20px;
+  text-align: center;
+  list-style-type: none;
+}
+
+ul h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+ul h2 a {
+  text-decoration: none;
+  color: rgb(0, 0, 255);
+}
+
+.text-box {
+  border: 2px solid #ffd8d8;
+  border-radius: 5px;
+  width: 400px;
+  padding: 10px;
+  margin: 2px;
+}
